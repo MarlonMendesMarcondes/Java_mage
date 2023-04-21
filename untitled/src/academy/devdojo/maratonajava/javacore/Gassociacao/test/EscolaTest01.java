@@ -8,7 +8,9 @@ public class EscolaTest01 {
         Professor professor = new Professor("Jiraya Sensei","Gejutsu");
         Professor[] professores = {professor};
         Escola escola = new Escola("Academia de Konoha", professores);
+        professor.imprime();
 
         escola.imprime();
+
     }
 }

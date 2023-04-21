@@ -2,16 +2,17 @@ package academy.devdojo.maratonajava.javacore.Gassociacao.dominio;
 
 public class Escola {
     private String nome;
-    private Professor[] professores;
+    private final Professor[] professores;
 
 
-    public Escola(String nome) {
+/*/    public Escola(String nome) {
         this.nome = nome;
-    }
+    }/*/
 
     public Escola(String nome, Professor[] professores) {
         this.nome = nome;
         this.professores = professores;
+
     }
 
     public void imprime(){
@@ -29,11 +30,11 @@ public class Escola {
         this.nome = nome;
     }
 
-    public Professor[] getProfessor() {
-        return professores;
-    }
+/*/    public Professor[] getProfessor() {
+      return professores;
+    }/*/
 
-    public void setProfessor(Professor[] professor) {
-        this.professores = professor;
-    }
+//    public void setProfessor(Professor[] professor) {
+//        this.professores = professor;
+//    }
 }

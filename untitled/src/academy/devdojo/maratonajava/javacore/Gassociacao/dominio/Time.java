@@ -1,29 +1,29 @@
 package academy.devdojo.maratonajava.javacore.Gassociacao.dominio;
 
+import academy.devdojo.maratonajava.javacore.Gassociacao.test.JogadorTest03;
+
 public class Time {
     private String nome;
-    private Jogador[] jogadores;
+    private JogadorTest03.Jogador[] jogadores;
 
     public Time(String nome) {
         this.nome = nome;
     }
 
-    public Time(String nome, Jogador[] jogadores) {
+    public Time(String nome, JogadorTest03.Jogador[] jogadores) {
         this.nome = nome;
         this.jogadores = jogadores;
     }
     public void imprime(){
         System.out.println(this.nome);
         if(jogadores == null) return;
-        for (Jogador jogador : jogadores){
+        for (JogadorTest03.Jogador jogador : jogadores){
             System.out.println(jogador.getNome());
         }
     }
-    public Jogador[] getJogadores() {
-        return jogadores;
-    }
 
-    public void setJogadores(Jogador[] jogadores) {
+
+    public void setJogadores(JogadorTest03.Jogador[] jogadores) {
         this.jogadores = jogadores;
     }
 
