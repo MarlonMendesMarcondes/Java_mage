@@ -1,5 +1,5 @@
 # Welcome to my Java repository ✋
-## if you even get here, I'm happy to welcome you here!
+## if you even get here, I'm happy to see you here!
 
 ## this place is where i started in java, here you will find my classes in the language. 🏝️
 -----
