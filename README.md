@@ -8,7 +8,7 @@
 
 ------------
 ### these classes then in the untitled/src/academy.devdojo.marathonjava folders. 📁
-### introduction folder is the base part of java, like operators, conditionals, repeating structures etc... 🖥️
+### introduction folder is the base part of java like operators, conditionals, repeating structures etc... 🖥️
 
 ### javacore folder is where you have all the content aimed at java programming as it should be like methods, inheritance, implementation, object orientation. 🛠️
 ----
