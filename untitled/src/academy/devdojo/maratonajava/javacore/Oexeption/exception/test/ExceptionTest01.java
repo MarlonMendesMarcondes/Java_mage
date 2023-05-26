@@ -12,8 +12,8 @@ public class ExceptionTest01 {
         try{
             boolean isCriado = file.createNewFile();
             System.out.println("Arquivo criado" + isCriado);
-        }catch(IOException ex){
-            ex.printStackTrace();
+        }catch(IOException e){
+            e.printStackTrace();
         }
 
     }
