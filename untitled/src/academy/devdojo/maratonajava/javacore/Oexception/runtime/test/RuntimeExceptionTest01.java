@@ -1,6 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Oexeption.runtime.test;
-
-import java.io.ObjectStreamException;
+package academy.devdojo.maratonajava.javacore.Oexception.runtime.test;
 
 public class RuntimeExceptionTest01 {
     public static void main(String[] args) {

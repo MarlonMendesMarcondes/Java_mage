@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Oexeption.error.test;
+package academy.devdojo.maratonajava.javacore.Oexception.error.test;
 
 public class Stackoverflowtest01 {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Oexeption.runtime.test;
-
-import org.w3c.dom.ls.LSOutput;
+package academy.devdojo.maratonajava.javacore.Oexception.runtime.test;
 
 public class RuntimeExceptionTest03 {
     public static void main(String[] args) {

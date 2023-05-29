@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Oexeption.exception.test;
+package academy.devdojo.maratonajava.javacore.Oexception.exception.test;
 
 public class IllegalArgumentException {
     public static void main(String[] args) {
