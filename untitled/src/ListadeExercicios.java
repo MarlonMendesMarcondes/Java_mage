@@ -18,5 +18,10 @@ public class ListadeExercicios {
                 "F || V = "+ (F || V)+ "\n"+
                 "V || F = "+ (V || F)+ "\n"+
                 "F || F = "+ (F || F)+ "\n");
+        System.out.println(V && F && F || V && V);
+        System.out.println( !(V) || F && F || !(V && V));
+        System.out.println(!(V && F && !(F && F) && V));
+
+
     }
 }
